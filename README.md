@@ -1,2 +1,2 @@
 # website-news
-pagina web de noticias hecha con react
+pagina web de noticias hecha con JavaScript
